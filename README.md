@@ -38,7 +38,7 @@
 
 | Слой | Инструмент | Версия |
 |:---|:---|:---:|
-| 🐍 Приложение | Python + Flask | 3.12 / 3.0 |
+| 🐍 Приложение | Python + Flask | 3.12 |
 | 🐳 Контейнеры | Docker + Compose | latest |
 | ☸️ Оркестрация | Kubernetes (minikube) | latest |
 | 📈 Метрики | Prometheus | latest |
